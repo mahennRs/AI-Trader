@@ -1,0 +1,7 @@
+env
+venv
+data/
+__pycache__/
+.aimodel_store
+*.pkl
+.idea/
